@@ -40,6 +40,12 @@ Code release soon.
 
 </div>
 
+## TODO
+
+- [ ] Release EmbodiedBench code.
+- [ ] Release RoboMemArena code.
+- [ ] Release LIBERO-PRO code.
+
 ## Citation
 
 ```bibtex
