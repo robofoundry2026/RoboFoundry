@@ -31,8 +31,6 @@ Jie Luo<sup>2</sup> ·
 
 [Project Page](https://jingsongliang.com/robofoundry/) · [Overview Video](https://jingsongliang.com/robofoundry/#project-video) · [Paper](https://arxiv.org/abs/2609.32862)
 
-Code release soon.
-
 <br>
 
 <!-- Overview image from https://jingsongliang.com/robofoundry/ -->
